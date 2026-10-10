@@ -1,0 +1,8 @@
+node_modules/
+out/
+# Modèles et binaire whisper.cpp (installés localement par le pipeline)
+whisper.cpp/
+*.bin
+.remotion/
+.DS_Store
+*.log
